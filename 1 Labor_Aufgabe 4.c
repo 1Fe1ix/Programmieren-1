@@ -1,7 +1,7 @@
 /*
 
 Ausgabe von einer Zeichen Kette (String), einer Ganzzahl (Integer), 
-einer Fliesskommazahl (Float) und einer Fliesskommazahl mit vorgaben für die Anzahl von Nummern vor und nach dem Komma
+einer Fliesskommazahl (Float) und einer Fliesskommazahl mit vorgaben fÃ¼r die Anzahl von Nummern vor und nach dem Komma
 
 Ausgabe:
 
